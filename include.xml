@@ -2,5 +2,6 @@
 <extension>
 	
 	<haxelib name="pazu" />
+	<haxedef name="nme" />
 	
 </extension>
