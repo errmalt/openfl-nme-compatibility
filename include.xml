@@ -2,6 +2,8 @@
 <extension>
 	
 	<haxelib name="pazu" />
+	
 	<haxedef name="nme" />
+	<haxedef name="nme_install_tool" />
 	
 </extension>
