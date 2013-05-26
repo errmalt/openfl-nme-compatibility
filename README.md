@@ -1,2 +1,2 @@
-pazu-compatibility
-==================
+openfl-compatibility
+====================
