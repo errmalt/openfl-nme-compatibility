@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GL = pazu.gl.GL;
+typedef GL = openfl.gl.GL;

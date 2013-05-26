@@ -1,4 +1,4 @@
 package nme.utils;
 
 
-typedef ArrayBuffer = pazu.utils.ArrayBuffer;
+typedef ArrayBuffer = openfl.utils.ArrayBuffer;

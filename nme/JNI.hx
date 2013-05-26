@@ -1,4 +1,4 @@
 package nme;
 
 
-typedef JNI = pazu.utils.JNI;
+typedef JNI = openfl.utils.JNI;

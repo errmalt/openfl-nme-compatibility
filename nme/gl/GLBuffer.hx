@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLBuffer = pazu.gl.GLBuffer;
+typedef GLBuffer = openfl.gl.GLBuffer;

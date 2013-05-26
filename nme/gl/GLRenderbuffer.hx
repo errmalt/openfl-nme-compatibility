@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLRenderbuffer = pazu.gl.GLRenderbuffer;
+typedef GLRenderbuffer = openfl.gl.GLRenderbuffer;

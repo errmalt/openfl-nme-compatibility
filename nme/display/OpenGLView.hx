@@ -1,4 +1,4 @@
 package nme.display;
 
 
-typedef OpenGLView = pazu.display.OpenGLView;
+typedef OpenGLView = openfl.display.OpenGLView;

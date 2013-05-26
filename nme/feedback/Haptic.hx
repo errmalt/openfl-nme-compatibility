@@ -1,4 +1,4 @@
 package nme.feedback;
 
 
-typedef Haptic = pazu.feedback.Haptic;
+typedef Haptic = openfl.feedback.Haptic;

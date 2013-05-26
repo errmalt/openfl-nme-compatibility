@@ -1,4 +1,4 @@
 package nme.events;
 
 
-typedef JoystickEvent = pazu.events.JoystickEvent;
+typedef JoystickEvent = openfl.events.JoystickEvent;

@@ -1,4 +1,4 @@
 package nme.utils;
 
 
-typedef Int16Array = pazu.utils.Int16Array;
+typedef Int16Array = openfl.utils.Int16Array;

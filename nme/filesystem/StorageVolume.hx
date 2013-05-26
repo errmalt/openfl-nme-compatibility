@@ -1,4 +1,4 @@
 package nme.filesystem;
 
 
-typedef StorageVolume = pazu.filesystem.StorageVolume;
+typedef StorageVolume = openfl.filesystem.StorageVolume;

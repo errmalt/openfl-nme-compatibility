@@ -1,4 +1,4 @@
 package nme.text;
 
 
-typedef NMEFont = pazu.text.NMEFont;
+typedef NMEFont = openfl.text.NMEFont;

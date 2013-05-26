@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLFramebuffer = pazu.gl.GLFramebuffer;
+typedef GLFramebuffer = openfl.gl.GLFramebuffer;

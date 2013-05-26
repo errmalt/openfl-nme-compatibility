@@ -1,4 +1,4 @@
 package nme.filesystem;
 
 
-typedef File = pazu.filesystem.File;
+typedef File = openfl.filesystem.File;

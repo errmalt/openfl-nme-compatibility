@@ -1,4 +1,4 @@
 package nme.display3D.shaders.glsl;
 
 
-typedef GLSLFragmentShader = pazu.display3D.shaders.glsl.GLSLFragmentShader;
+typedef GLSLFragmentShader = openfl.display3D.shaders.glsl.GLSLFragmentShader;

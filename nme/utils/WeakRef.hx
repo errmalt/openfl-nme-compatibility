@@ -1,4 +1,4 @@
 package nme.utils;
 
 
-typedef WeakRef<T> = pazu.utils.WeakRef<T>;
+typedef WeakRef<T> = openfl.utils.WeakRef<T>;

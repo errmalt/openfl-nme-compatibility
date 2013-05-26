@@ -1,4 +1,4 @@
 package nme.display;
 
 
-typedef FPS = pazu.display.FPS;
+typedef FPS = openfl.display.FPS;

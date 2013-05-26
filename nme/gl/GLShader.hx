@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLShader = pazu.gl.GLShader;
+typedef GLShader = openfl.gl.GLShader;

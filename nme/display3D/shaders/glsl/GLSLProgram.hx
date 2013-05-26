@@ -1,4 +1,4 @@
 package nme.display3D.shaders.glsl;
 
 
-typedef GLSLProgram = pazu.display3D.shaders.glsl.GLSLProgram;
+typedef GLSLProgram = openfl.display3D.shaders.glsl.GLSLProgram;

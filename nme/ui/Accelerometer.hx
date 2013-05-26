@@ -1,4 +1,4 @@
 package nme.ui;
 
 
-typedef Accelerometer = pazu.ui.Accelerometer;
+typedef Accelerometer = openfl.ui.Accelerometer;

@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLProgram = pazu.gl.GLProgram;
+typedef GLProgram = openfl.gl.GLProgram;

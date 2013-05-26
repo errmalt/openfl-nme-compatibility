@@ -1,4 +1,4 @@
 package nme.utils;
 
 
-typedef ArrayBufferView = pazu.utils.ArrayBufferView;
+typedef ArrayBufferView = openfl.utils.ArrayBufferView;

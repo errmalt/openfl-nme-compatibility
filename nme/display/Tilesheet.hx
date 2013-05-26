@@ -1,4 +1,4 @@
 package nme.display;
 
 
-typedef Tilesheet = pazu.display.Tilesheet;
+typedef Tilesheet = openfl.display.Tilesheet;

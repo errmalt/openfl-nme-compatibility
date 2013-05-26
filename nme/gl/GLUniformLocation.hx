@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLUniformLocation = pazu.gl.GLUniformLocation;
+typedef GLUniformLocation = openfl.gl.GLUniformLocation;

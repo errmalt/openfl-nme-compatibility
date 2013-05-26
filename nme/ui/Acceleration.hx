@@ -1,4 +1,4 @@
 package nme.ui;
 
 
-typedef Acceleration = pazu.ui.Acceleration;
+typedef Acceleration = openfl.ui.Acceleration;

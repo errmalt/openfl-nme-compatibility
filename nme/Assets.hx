@@ -1,4 +1,4 @@
 package nme;
 
 
-typedef Assets = pazu.Assets;
+typedef Assets = openfl.Assets;

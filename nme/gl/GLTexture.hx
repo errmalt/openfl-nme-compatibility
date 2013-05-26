@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLTexture = pazu.gl.GLTexture;
+typedef GLTexture = openfl.gl.GLTexture;

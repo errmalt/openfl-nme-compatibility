@@ -1,4 +1,4 @@
 package nme.utils;
 
 
-typedef IMemoryRange = pazu.utils.IMemoryRange;
+typedef IMemoryRange = openfl.utils.IMemoryRange;

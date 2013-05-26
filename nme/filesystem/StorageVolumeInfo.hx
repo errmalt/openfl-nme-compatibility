@@ -1,4 +1,4 @@
 package nme.filesystem;
 
 
-typedef StorageVolumeInfo = pazu.filesystem.StorageVolumeInfo;
+typedef StorageVolumeInfo = openfl.filesystem.StorageVolumeInfo;

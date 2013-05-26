@@ -1,4 +1,4 @@
 package nme.display3D.shaders;
 
 
-typedef ShaderUtils = pazu.display3D.shaders.ShaderUtils;
+typedef ShaderUtils = openfl.display3D.shaders.ShaderUtils;

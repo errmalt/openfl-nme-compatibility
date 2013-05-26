@@ -1,4 +1,4 @@
 package nme.display;
 
 
-typedef DirectRenderer = pazu.display.DirectRenderer;
+typedef DirectRenderer = openfl.display.DirectRenderer;

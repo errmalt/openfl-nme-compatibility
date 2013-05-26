@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLObject = pazu.gl.GLObject;
+typedef GLObject = openfl.gl.GLObject;

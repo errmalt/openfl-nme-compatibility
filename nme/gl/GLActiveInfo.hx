@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLActiveInfo = pazu.gl.GLActiveInfo;
+typedef GLActiveInfo = openfl.gl.GLActiveInfo;

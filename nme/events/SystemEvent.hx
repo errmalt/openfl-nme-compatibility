@@ -1,4 +1,4 @@
 package nme.events;
 
 
-typedef SystemEvent = pazu.events.SystemEvent;
+typedef SystemEvent = openfl.events.SystemEvent;

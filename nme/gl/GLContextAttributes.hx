@@ -1,4 +1,4 @@
 package nme.gl;
 
 
-typedef GLContextAttributes = pazu.gl.GLContextAttributes;
+typedef GLContextAttributes = openfl.gl.GLContextAttributes;
