@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"tags": [],
 	"description": "Compatibility support for OpenFL",
-	"version": "1.0.0-rc.1",
+	"version": "1.0.0",
 	"releasenote": "Initial release",
 	"contributors": [ "singmajesty" ],
 	"dependencies": {}
