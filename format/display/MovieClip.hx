@@ -1,13 +1,8 @@
 package format.display;
-#if display
+#if !openfl
 
 
-typedef MovieClip = nme.display.MovieClip;
-
-
-#else
-import nme.display.Sprite;
-
+import flash.display.Sprite;
 
 /**
  * Base class for MovieClip-related format libraries
@@ -102,4 +97,69 @@ class MovieClip extends Sprite {
 	
 	
 }
+
+
+#else
+
+
+class MovieClip extends flash.display.MovieClip {
+	
+	
+	#if !flash
+	public var currentFrameLabel (default, null):String;
+	public var currentLabel (default, null):String;
+	public var currentLabels (default, null):Array <FrameLabel>;
+	#else
+	private var __currentFrame:Int;
+	private var __totalFrames:Int;
+	#end
+	
+	
+	function new () {
+		
+		super ();
+		
+	}
+	
+	
+	public function flatten ():Void {
+		
+		
+		
+	}
+	
+	
+	public function unflatten ():Void {
+		
+		
+		
+	}
+	
+	
+	#if flash
+	@:getter public function get_currentFrame():Int {
+		
+		return __currentFrame;
+		
+	}
+	
+	
+	@:getter public function get___framesLoaded():Int {
+		
+		return __totalFrames;
+		
+	}
+	
+	
+	@:getter public function get___totalFrames():Int {
+		
+		return __totalFrames;
+		
+	}
+	#end
+	
+	
+}
+
+
 #end
